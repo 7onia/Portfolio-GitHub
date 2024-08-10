@@ -1,18 +1,4 @@
 # Portfolio-GitHub
-portfolio/
-│
-├── projects/
-│   ├── project1/
-│   └── README.md
-│
-├── assets/
-│   └── images/
-│       ├── project1-screenshot.png
-|
-├── LICENSE
-├── README.md
-└── .gitignore
-
 # Tonia's Portfolio
 
 ![IMG_20210801_023806_362-removebg-preview (2)](https://github.com/user-attachments/assets/9a5da86c-8b68-493f-9915-1a066485889b)

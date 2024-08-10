@@ -44,7 +44,7 @@ Here is my project. Visit the [`projects`](projects/) directory for more detaile
 
 **Technologies Used**: MySQL, Tableau and Github
 
-**[View Project]([View Project](https://github.com/7onia/Google-Data-Analytics-case-study)** | **[Source Code](/)**
+**[View Project]([View Project](https://github.com/7onia/Google-Data-Analytics-case-study)** | **[Source Code]([Google Data Analytics](https://github.com/7onia/Google-Data-Analytics-case-study)**
 
 ---
 
